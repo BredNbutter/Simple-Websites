@@ -1,0 +1,12 @@
+body{
+  background-color:darksalmon;
+}
+
+
+.envelope-wrapper{
+  height: 380px;
+}
+
+#envelope{
+    
+}
